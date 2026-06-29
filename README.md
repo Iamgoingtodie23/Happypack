@@ -6,7 +6,7 @@ Welcome to __Happypack!__ This simple, sleek resource pack that adds cute (and s
 * Includes some UI elements, like hearts and menu buttons!
 
 ## Installation
-1. Download the Happypack.zip file
+1. Click on the green __code__ dropdown and select the bottom option, __Download .zip__
 2. Open Minecraft and navigate to __Options > Resource Packs.__
 3. Click __Open Pack Folder.__
 4. Drag and drop the downloaded .zip into the folder
